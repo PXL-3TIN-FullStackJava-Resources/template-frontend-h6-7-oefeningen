@@ -42,16 +42,7 @@ Controleer na het maken van deze oefening of je alle wijzigingen naar github heb
 
 ### Oefening 4
 
-Ga naar de map H67-oefening-debug. Vervolgens run je onderstaand commando in deze map op alle dependencies te installeren:
-```
-npm install
-```
-In dit project zitten verschillende fouten. Probeer aan de hand van de error messages in je IDE & developer console de fouten weg te werken zodat je een werkende applicatie krijgt.
-
-Controleer na het maken van deze oefening of je alle wijzigingen naar github hebt gepusht.
-### Oefening 5
-
-Maak een nieuw Angular project h67-oefening3 in de root directory van deze repository.
+Maak een nieuw Angular project h67-oefening4 in de root directory van deze repository.
 *   Voor zie een model voor het aanmaken van Klanten. Elke klant heeft een voornaam, achternaam, email, straatnaam, huisnummer, postcode en gemeente.
 *   Voorzie een service waarin je een array met dummie klanten plaatst. Voorzie ook methodes voor de lijst op te vragen, elementen toe te voegen aan de array en om klanten te verwijderen van de array.
 *   Voorzie 2 nieuwe components. Beide components worden ingeladen vanuit de app.component:
